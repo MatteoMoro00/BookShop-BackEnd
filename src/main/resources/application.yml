@@ -1,0 +1,15 @@
+spring:
+  devtools:
+    restart:
+      enabled: true
+  datasource:
+    url: jdbc:postgresql://localhost/bookShop
+    username: postgres
+    password: razmataz
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: true
+app:
+  jwt:
+    secret: abcdef12345qwerty6789
