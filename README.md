@@ -1,2 +1,2 @@
 # BookShop-BackEnd
-A simple Book shop apllication
+A simple Book shop application
